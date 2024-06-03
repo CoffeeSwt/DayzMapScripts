@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"canvas": "^2.11.2",
+		"imagemin": "^9.0.0",
+		"images": "^3.2.4",
+		"jimp": "^0.22.12",
+		"pngjs": "^7.0.0",
+		"sharp": "^0.33.4",
+		"svg-canvas": "^1.0.2",
+		"svg.js": "^2.7.1"
+	}
+}
