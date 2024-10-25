@@ -1,7 +1,4 @@
-cols
-colsoutCopr
-map
-node_modules
-out
-*.png
-*.svg
+map/
+node_modules/
+
+pnpm-lock.yaml

@@ -2,8 +2,8 @@ const compress_images = require("compress-images");
 
 function MyFun() {
   compress_images(
-    "chernarusplus.{jpg,JPG,jpeg,JPEG,png,svg,gif}",
-    "oyys.png",
+    "Sakhal.{jpg,JPG,jpeg,JPEG,png,svg,gif}",
+    "res/oyys.png",
     { compress_force: false, statistic: true, autoupdate: true },
     false,
     { jpg: { engine: "mozjpeg", command: ["-quality", "60"] } },
@@ -19,3 +19,4 @@ function MyFun() {
     }
   );
 }
+MyFun()
